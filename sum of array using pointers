@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main(){
-     int arr[6], size;
+     int arr[5], size;
     int *ptr, sum = 0;
 
     printf("Enter size  of the array: ");
